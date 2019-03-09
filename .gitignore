@@ -1,9 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Scala template
-project
-target
-
+target/
+project/
 # IntelliJ project files
 .idea
 out
 gen
+
